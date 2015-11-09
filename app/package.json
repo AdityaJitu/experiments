@@ -1,0 +1,19 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "description": "This is a sample Application for doing experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaJitu/experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaJitu/experiments/issues"
+  },
+  "homepage": "https://github.com/AdityaJitu/experiments#readme"
+}
